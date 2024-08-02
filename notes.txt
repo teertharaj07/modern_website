@@ -1,0 +1,12 @@
+28.12 min first
+32:33 min second 
+36.38 min third
+52.00 min fourth
+01.00.09 min fifth
+
+next part is animation 
+01. smooth scrolling
+02. gsap 
+03. scrolltrigger
+
+01.10.00 min sixth
